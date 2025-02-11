@@ -1,4 +1,4 @@
-package JavaStreams;
+package JavaStreams.Filters;
 
 import java.util.ArrayList;
 import java.util.Arrays;
